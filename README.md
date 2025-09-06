@@ -8,6 +8,6 @@ This is a repository containing the source code for a Tenzies game developed wit
    git clone https://github.com/your-username/tenzies-game.git
 
 
-1. **Navigate to the project directory:**:  
+2. **Navigate to the project directory:**:  
    ```bash  
-   git clone https://github.com/your-username/tenzies-game.git 
+   cd tenzies-game
