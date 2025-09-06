@@ -6,3 +6,7 @@ This is a repository containing the source code for a Tenzies game developed wit
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/your-username/tenzies-game.git
+
+
+1. **Navigate to the project directory:**:
+    cd tenzies-game
